@@ -2,11 +2,11 @@
 #include <WebServer.h>
 //#include <base64.h>
 
-const char* ssid = "Yodo_0352_2";
-const char* password = "v6mfe7kc";
+const char* ssid = "";
+const char* password = "";
 // basic認証用
 const char *www_username = "admin";
-const char *www_password = "abcde";
+const char *www_password = "password";
 
 const int led = 33;
 const int led2 = 27;
